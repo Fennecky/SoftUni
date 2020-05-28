@@ -1,0 +1,13 @@
+C:\Users\nnokl\source\repos\Project1\Coordinates\bin\Debug\netcoreapp3.1\CoordinatesInside.exe
+C:\Users\nnokl\source\repos\Project1\Coordinates\bin\Debug\netcoreapp3.1\CoordinatesInside.deps.json
+C:\Users\nnokl\source\repos\Project1\Coordinates\bin\Debug\netcoreapp3.1\CoordinatesInside.runtimeconfig.json
+C:\Users\nnokl\source\repos\Project1\Coordinates\bin\Debug\netcoreapp3.1\CoordinatesInside.runtimeconfig.dev.json
+C:\Users\nnokl\source\repos\Project1\Coordinates\bin\Debug\netcoreapp3.1\CoordinatesInside.dll
+C:\Users\nnokl\source\repos\Project1\Coordinates\bin\Debug\netcoreapp3.1\CoordinatesInside.pdb
+C:\Users\nnokl\source\repos\Project1\Coordinates\obj\Debug\netcoreapp3.1\CoordinatesInside.csprojAssemblyReference.cache
+C:\Users\nnokl\source\repos\Project1\Coordinates\obj\Debug\netcoreapp3.1\CoordinatesInside.AssemblyInfoInputs.cache
+C:\Users\nnokl\source\repos\Project1\Coordinates\obj\Debug\netcoreapp3.1\CoordinatesInside.AssemblyInfo.cs
+C:\Users\nnokl\source\repos\Project1\Coordinates\obj\Debug\netcoreapp3.1\CoordinatesInside.csproj.CoreCompileInputs.cache
+C:\Users\nnokl\source\repos\Project1\Coordinates\obj\Debug\netcoreapp3.1\CoordinatesInside.dll
+C:\Users\nnokl\source\repos\Project1\Coordinates\obj\Debug\netcoreapp3.1\CoordinatesInside.pdb
+C:\Users\nnokl\source\repos\Project1\Coordinates\obj\Debug\netcoreapp3.1\CoordinatesInside.genruntimeconfig.cache

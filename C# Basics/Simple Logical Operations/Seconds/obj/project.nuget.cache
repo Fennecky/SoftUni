@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "g6JawQ96brkNneZzRl+9BHfVapAUPNQ7XZ3BXzec8r8/Lryk33SjxDFtkKp2VQNhkjuWSZedTCpu3Bgd2mOPTg==",
+  "success": true,
+  "projectFilePath": "C:\\Programming\\SoftUni\\C# Basics\\Seconds\\Seconds.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nnokl\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

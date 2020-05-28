@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/9n4SOVFLw+acCFNH6Fgy4YK2XVnm4cX/coWdam7vthn2kxtk5saUT7y8INEU+1jM0CgHlEhEYtn6uX4A6L8sQ==",
+  "success": true,
+  "projectFilePath": "C:\\Programming\\SoftUni\\C# Basics\\FoodChecker\\FoodChecker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nnokl\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

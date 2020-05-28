@@ -1,0 +1,13 @@
+C:\Users\nnokl\source\repos\Project1\FoodChecker\bin\Debug\netcoreapp3.1\FoodChecker.exe
+C:\Users\nnokl\source\repos\Project1\FoodChecker\bin\Debug\netcoreapp3.1\FoodChecker.deps.json
+C:\Users\nnokl\source\repos\Project1\FoodChecker\bin\Debug\netcoreapp3.1\FoodChecker.runtimeconfig.json
+C:\Users\nnokl\source\repos\Project1\FoodChecker\bin\Debug\netcoreapp3.1\FoodChecker.runtimeconfig.dev.json
+C:\Users\nnokl\source\repos\Project1\FoodChecker\bin\Debug\netcoreapp3.1\FoodChecker.dll
+C:\Users\nnokl\source\repos\Project1\FoodChecker\bin\Debug\netcoreapp3.1\FoodChecker.pdb
+C:\Users\nnokl\source\repos\Project1\FoodChecker\obj\Debug\netcoreapp3.1\FoodChecker.AssemblyInfoInputs.cache
+C:\Users\nnokl\source\repos\Project1\FoodChecker\obj\Debug\netcoreapp3.1\FoodChecker.AssemblyInfo.cs
+C:\Users\nnokl\source\repos\Project1\FoodChecker\obj\Debug\netcoreapp3.1\FoodChecker.csproj.CoreCompileInputs.cache
+C:\Users\nnokl\source\repos\Project1\FoodChecker\obj\Debug\netcoreapp3.1\FoodChecker.dll
+C:\Users\nnokl\source\repos\Project1\FoodChecker\obj\Debug\netcoreapp3.1\FoodChecker.pdb
+C:\Users\nnokl\source\repos\Project1\FoodChecker\obj\Debug\netcoreapp3.1\FoodChecker.genruntimeconfig.cache
+C:\Users\nnokl\source\repos\Project1\FoodChecker\obj\Debug\netcoreapp3.1\FoodChecker.csprojAssemblyReference.cache

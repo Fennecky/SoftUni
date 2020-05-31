@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Programming\\SoftUni\\C# Basics\\FoodChecker\\FoodChecker.csproj",
+      "projectUniqueName": "C:\\Programming\\SoftUni\\C# Basics\\Nested Statements\\FoodChecker\\FoodChecker.csproj",
       "projectName": "FoodChecker",
-      "projectPath": "C:\\Programming\\SoftUni\\C# Basics\\FoodChecker\\FoodChecker.csproj",
+      "projectPath": "C:\\Programming\\SoftUni\\C# Basics\\Nested Statements\\FoodChecker\\FoodChecker.csproj",
       "packagesPath": "C:\\Users\\nnokl\\.nuget\\packages\\",
-      "outputPath": "C:\\Programming\\SoftUni\\C# Basics\\FoodChecker\\obj\\",
+      "outputPath": "C:\\Programming\\SoftUni\\C# Basics\\Nested Statements\\FoodChecker\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

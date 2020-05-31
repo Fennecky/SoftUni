@@ -11,7 +11,6 @@ namespace FoodPricing
             var quantity = double.Parse(Console.ReadLine());
             var price = -1.0;
 
-
             if (day == "monday" || day == "tuesday" || day == "wednesday" || day == "thursday" || day == "friday")
             {
                 switch (fruit)

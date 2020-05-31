@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Programming\\SoftUni\\C# Basics\\Seconds\\Seconds.csproj": {}
+    "C:\\Programming\\SoftUni\\C# Basics\\Simple Logical Operations\\Seconds\\Seconds.csproj": {}
   },
   "projects": {
-    "C:\\Programming\\SoftUni\\C# Basics\\Seconds\\Seconds.csproj": {
+    "C:\\Programming\\SoftUni\\C# Basics\\Simple Logical Operations\\Seconds\\Seconds.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Programming\\SoftUni\\C# Basics\\Seconds\\Seconds.csproj",
+        "projectUniqueName": "C:\\Programming\\SoftUni\\C# Basics\\Simple Logical Operations\\Seconds\\Seconds.csproj",
         "projectName": "Seconds",
-        "projectPath": "C:\\Programming\\SoftUni\\C# Basics\\Seconds\\Seconds.csproj",
+        "projectPath": "C:\\Programming\\SoftUni\\C# Basics\\Simple Logical Operations\\Seconds\\Seconds.csproj",
         "packagesPath": "C:\\Users\\nnokl\\.nuget\\packages\\",
-        "outputPath": "C:\\Programming\\SoftUni\\C# Basics\\Seconds\\obj\\",
+        "outputPath": "C:\\Programming\\SoftUni\\C# Basics\\Simple Logical Operations\\Seconds\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

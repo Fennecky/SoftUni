@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Programming\\SoftUni\\C# Basics\\FoodPricing\\FoodPricing.csproj",
+      "projectUniqueName": "C:\\Programming\\SoftUni\\C# Basics\\Nested Statements\\FoodPricing\\FoodPricing.csproj",
       "projectName": "FoodPricing",
-      "projectPath": "C:\\Programming\\SoftUni\\C# Basics\\FoodPricing\\FoodPricing.csproj",
+      "projectPath": "C:\\Programming\\SoftUni\\C# Basics\\Nested Statements\\FoodPricing\\FoodPricing.csproj",
       "packagesPath": "C:\\Users\\nnokl\\.nuget\\packages\\",
-      "outputPath": "C:\\Programming\\SoftUni\\C# Basics\\FoodPricing\\obj\\",
+      "outputPath": "C:\\Programming\\SoftUni\\C# Basics\\Nested Statements\\FoodPricing\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

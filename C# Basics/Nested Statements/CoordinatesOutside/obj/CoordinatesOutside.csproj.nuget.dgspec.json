@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Programming\\SoftUni\\C# Basics\\CoordinatesOutside\\CoordinatesOutside.csproj": {}
+    "C:\\Programming\\SoftUni\\C# Basics\\Nested Statements\\CoordinatesOutside\\CoordinatesOutside.csproj": {}
   },
   "projects": {
-    "C:\\Programming\\SoftUni\\C# Basics\\CoordinatesOutside\\CoordinatesOutside.csproj": {
+    "C:\\Programming\\SoftUni\\C# Basics\\Nested Statements\\CoordinatesOutside\\CoordinatesOutside.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Programming\\SoftUni\\C# Basics\\CoordinatesOutside\\CoordinatesOutside.csproj",
+        "projectUniqueName": "C:\\Programming\\SoftUni\\C# Basics\\Nested Statements\\CoordinatesOutside\\CoordinatesOutside.csproj",
         "projectName": "CoordinatesOutside",
-        "projectPath": "C:\\Programming\\SoftUni\\C# Basics\\CoordinatesOutside\\CoordinatesOutside.csproj",
+        "projectPath": "C:\\Programming\\SoftUni\\C# Basics\\Nested Statements\\CoordinatesOutside\\CoordinatesOutside.csproj",
         "packagesPath": "C:\\Users\\nnokl\\.nuget\\packages\\",
-        "outputPath": "C:\\Programming\\SoftUni\\C# Basics\\CoordinatesOutside\\obj\\",
+        "outputPath": "C:\\Programming\\SoftUni\\C# Basics\\Nested Statements\\CoordinatesOutside\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

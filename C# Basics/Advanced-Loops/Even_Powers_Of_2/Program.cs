@@ -7,7 +7,8 @@ namespace Even_Powers_Of_2
         static void Main(string[] args)
         {
             var n = int.Parse(Console.ReadLine());
-            for (int i = 1; i < Math.Pow(4, n); i*=4)
+            var power = Math.Pow(2, n);
+            for (int i = 1; i < power; i *= 2)
             {
                 Console.WriteLine(i);
             }

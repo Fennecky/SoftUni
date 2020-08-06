@@ -49,13 +49,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HouseLoop", "DrawingWithLoo
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Advanced-Loops", "Advanced-Loops", "{9AA7CC82-93D9-4C28-B824-779C5900F2C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Numbers_From_N_To_3", "Advanced-Loops\Numbers_From_N_To_3\Numbers_From_N_To_3.csproj", "{265DFC06-B57C-406C-9A39-68AF6944F532}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Numbers_From_N_To_3", "Advanced-Loops\Numbers_From_N_To_3\Numbers_From_N_To_3.csproj", "{265DFC06-B57C-406C-9A39-68AF6944F532}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Numbers_From_N_To_1_Backwards", "Advanced-Loops\Numbers_From_N_To_1_Backwards\Numbers_From_N_To_1_Backwards.csproj", "{77B24AC0-107D-46EC-821E-78F4A77D0C7A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Numbers_From_N_To_1_Backwards", "Advanced-Loops\Numbers_From_N_To_1_Backwards\Numbers_From_N_To_1_Backwards.csproj", "{77B24AC0-107D-46EC-821E-78F4A77D0C7A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Numbers_From_1_To_N", "Advanced-Loops\Numbers_From_1_To_N\Numbers_From_1_To_N.csproj", "{5AD084C3-6DFD-4AB5-89E2-C3ADF2CBFBEB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Numbers_From_1_To_N", "Advanced-Loops\Numbers_From_1_To_N\Numbers_From_1_To_N.csproj", "{5AD084C3-6DFD-4AB5-89E2-C3ADF2CBFBEB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Even_Powers_Of_2", "Advanced-Loops\Even_Powers_Of_2\Even_Powers_Of_2.csproj", "{14E69BD0-8B55-423D-84D1-3F4FE2E73FD0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Even_Powers_Of_2", "Advanced-Loops\Even_Powers_Of_2\Even_Powers_Of_2.csproj", "{14E69BD0-8B55-423D-84D1-3F4FE2E73FD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sequence 2k+1", "Advanced-Loops\Sequence 2k+1\Sequence 2k+1.csproj", "{09A1EE7C-4012-4E0A-93BE-1223596B50FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Number in Range", "Advanced-Loops\Number in Range\Number in Range.csproj", "{A868079E-F1F1-4958-A209-DD876AB0A71C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -151,6 +155,14 @@ Global
 		{14E69BD0-8B55-423D-84D1-3F4FE2E73FD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{14E69BD0-8B55-423D-84D1-3F4FE2E73FD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{14E69BD0-8B55-423D-84D1-3F4FE2E73FD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09A1EE7C-4012-4E0A-93BE-1223596B50FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09A1EE7C-4012-4E0A-93BE-1223596B50FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09A1EE7C-4012-4E0A-93BE-1223596B50FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09A1EE7C-4012-4E0A-93BE-1223596B50FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A868079E-F1F1-4958-A209-DD876AB0A71C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A868079E-F1F1-4958-A209-DD876AB0A71C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A868079E-F1F1-4958-A209-DD876AB0A71C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A868079E-F1F1-4958-A209-DD876AB0A71C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -178,6 +190,8 @@ Global
 		{77B24AC0-107D-46EC-821E-78F4A77D0C7A} = {9AA7CC82-93D9-4C28-B824-779C5900F2C7}
 		{5AD084C3-6DFD-4AB5-89E2-C3ADF2CBFBEB} = {9AA7CC82-93D9-4C28-B824-779C5900F2C7}
 		{14E69BD0-8B55-423D-84D1-3F4FE2E73FD0} = {9AA7CC82-93D9-4C28-B824-779C5900F2C7}
+		{09A1EE7C-4012-4E0A-93BE-1223596B50FF} = {9AA7CC82-93D9-4C28-B824-779C5900F2C7}
+		{A868079E-F1F1-4958-A209-DD876AB0A71C} = {9AA7CC82-93D9-4C28-B824-779C5900F2C7}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {92ED277A-6D95-4279-A079-2DF0A665C2C9}

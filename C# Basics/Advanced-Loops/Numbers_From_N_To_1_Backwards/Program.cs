@@ -10,8 +10,10 @@ namespace Numbers_From_N_To_1_Backwards
             var num = int.Parse(Console.ReadLine());
             for (int i = num; i > 0; i--)
             {
+                Console.Write("The number is: ");
                 Console.WriteLine(i);
             }
+            Console.WriteLine("The number is: 0!");
         }
     }
 }

@@ -1,29 +1,29 @@
 ﻿using System;
 
-namespace Number_in_Range
+namespace Infitnite_Loop
 {
     class Program
     {
         static void Main(string[] args)
         {
-            var n = -1;
+            Console.Write("Please enter a number!: ");
+            var n = 0;
             while (true)
             {
                 try
                 {
                     n = int.Parse(Console.ReadLine());
-                    if (n >= 1 && n <=100)
+                    if (n < 10)
                     {
-                        Console.WriteLine("Thank you! the number is: {0} ", n);
+                        Console.WriteLine("Good! The number {0} is between 1 and 10!", n);
                         break;
                     }
-                    Console.WriteLine("Invalid number! Try again...");
                 }
                 catch
                 {
-                    Console.WriteLine("This is not a number!");
+                    Console.WriteLine("The number {0} is not between 1 and 10, try again: ", n);
                 }
-            }
+            }   
         }
     }
 }

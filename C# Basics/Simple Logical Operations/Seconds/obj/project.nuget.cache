@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "aXZvpIjBjtYf8BFRxGuHigl3e4vKmj2Z8QHl/YxzAEdq0eP4UXq5JmmIqp3nehj0XUjxLwsvzoMhbvBQf3zZFw==",
+  "dgSpecHash": "dG5Fi92YA9wXk7S2rqWOXiMUaIpk5ChTu+34/mcjwN8vbpDOaNquT7Fm+OeD1DIeHi7saw9sQzmgjKagpTv7AA==",
   "success": true,
-  "projectFilePath": "C:\\Programming\\SoftUni\\C# Basics\\Simple Logical Operations\\Seconds\\Seconds.csproj",
+  "projectFilePath": "E:\\SoftUni\\C# Basics\\Simple Logical Operations\\Seconds\\Seconds.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\nnokl\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+    "C:\\Users\\vladi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Programming\\SoftUni\\C# Basics\\Nested Statements\\FoodPricing\\FoodPricing.csproj": {}
+    "E:\\SoftUni\\C# Basics\\Nested Statements\\FoodPricing\\FoodPricing.csproj": {}
   },
   "projects": {
-    "C:\\Programming\\SoftUni\\C# Basics\\Nested Statements\\FoodPricing\\FoodPricing.csproj": {
+    "E:\\SoftUni\\C# Basics\\Nested Statements\\FoodPricing\\FoodPricing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Programming\\SoftUni\\C# Basics\\Nested Statements\\FoodPricing\\FoodPricing.csproj",
+        "projectUniqueName": "E:\\SoftUni\\C# Basics\\Nested Statements\\FoodPricing\\FoodPricing.csproj",
         "projectName": "FoodPricing",
-        "projectPath": "C:\\Programming\\SoftUni\\C# Basics\\Nested Statements\\FoodPricing\\FoodPricing.csproj",
-        "packagesPath": "C:\\Users\\nnokl\\.nuget\\packages\\",
-        "outputPath": "C:\\Programming\\SoftUni\\C# Basics\\Nested Statements\\FoodPricing\\obj\\",
+        "projectPath": "E:\\SoftUni\\C# Basics\\Nested Statements\\FoodPricing\\FoodPricing.csproj",
+        "packagesPath": "C:\\Users\\vladi\\.nuget\\packages\\",
+        "outputPath": "E:\\SoftUni\\C# Basics\\Nested Statements\\FoodPricing\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\nnokl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\vladi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],

@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "/51po/UYwQVOtUsXUrEqDlo8VGlqPulEqosXyk7vgWKKQBhKE/tEm1EHhsrMUK57fE+DfMEnwaPs1rBOjbZCtw==",
+  "dgSpecHash": "exydmVZp0YRSURfqXAuf66b2qLMzRU27m8Jiu8aQXT90oDe/uJ+yxZUGuCa1TZAwmOjCM6bqWoX0bVzRJy8sEg==",
   "success": true,
-  "projectFilePath": "C:\\Programming\\SoftUni\\C# Basics\\Nested Statements\\FoodChecker\\FoodChecker.csproj",
+  "projectFilePath": "E:\\SoftUni\\C# Basics\\Nested Statements\\FoodChecker\\FoodChecker.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\nnokl\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+    "C:\\Users\\vladi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
   ],
   "logs": []
 }

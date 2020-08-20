@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "cfF86tWzNRz6diFyHMwbP65+6y6jr2qj0yyeNeVQNQfrNWg1NRKcBisB+xlKfIoRDiFNFXQOre0PpLz5ieP/Ow==",
+  "dgSpecHash": "38bE39aRNBZq1pzv59Vg9VfFuIQqn8xomWnuwB/ytnp+94edNPRtAz5IxCvY3nLZm3J6N71pybZ72ft3uQK8nQ==",
   "success": true,
-  "projectFilePath": "C:\\Programming\\SoftUni\\C# Basics\\Nested Statements\\FoodPricing\\FoodPricing.csproj",
+  "projectFilePath": "E:\\SoftUni\\C# Basics\\Nested Statements\\FoodPricing\\FoodPricing.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\nnokl\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+    "C:\\Users\\vladi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
   ],
   "logs": []
 }

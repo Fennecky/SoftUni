@@ -8,23 +8,23 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\nnokl\\.nuget\\packages\\": {},
+    "C:\\Users\\vladi\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Programming\\SoftUni\\C# Basics\\Simple Logical Operations\\Title\\Title.csproj",
+      "projectUniqueName": "E:\\SoftUni\\C# Basics\\Simple Logical Operations\\Title\\Title.csproj",
       "projectName": "Title",
-      "projectPath": "C:\\Programming\\SoftUni\\C# Basics\\Simple Logical Operations\\Title\\Title.csproj",
-      "packagesPath": "C:\\Users\\nnokl\\.nuget\\packages\\",
-      "outputPath": "C:\\Programming\\SoftUni\\C# Basics\\Simple Logical Operations\\Title\\obj\\",
+      "projectPath": "E:\\SoftUni\\C# Basics\\Simple Logical Operations\\Title\\Title.csproj",
+      "packagesPath": "C:\\Users\\vladi\\.nuget\\packages\\",
+      "outputPath": "E:\\SoftUni\\C# Basics\\Simple Logical Operations\\Title\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\nnokl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\vladi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],

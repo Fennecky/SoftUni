@@ -6,6 +6,7 @@ namespace Prime_Numbers
     {
         static void Main(string[] args)
         {
+<<<<<<< Updated upstream
             Console.Write("Please enter a number: ");
             var n = int.Parse(Console.ReadLine());
             Console.WriteLine("Checking your number...");
@@ -26,6 +27,9 @@ namespace Prime_Numbers
             {
                 Console.WriteLine("The number {0} is not prime", n);
             }
+=======
+            
+>>>>>>> Stashed changes
         }
     }
 }

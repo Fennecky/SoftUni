@@ -9,7 +9,7 @@ namespace Circle_Area__Precision_12_
             double r = double.Parse(Console.ReadLine());
             double sum = Math.PI * r * r;
 
-            Console.WriteLine("{0:f12}", sum);
+            Console.WriteLine($"{sum:f12}");
 
         }
     }

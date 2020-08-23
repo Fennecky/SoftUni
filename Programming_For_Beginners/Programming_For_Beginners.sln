@@ -9,11 +9,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Centuries_to_Minutes", "Dat
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Circle_Area_(Precision 12)", "Data Types and Variables\Circle_Area_(Precision 12)\Circle_Area_(Precision 12).csproj", "{EED84F71-BDF5-4C86-A5B6-07FEA9E6C22B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exact_Sum_of_Real_Numbers", "Data Types and Variables\Exact_Sum_of_Real_Numbers\Exact_Sum_of_Real_Numbers.csproj", "{2C20E1B4-450F-4C8B-960B-DE8263E1C966}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exact_Sum_of_Real_Numbers", "Data Types and Variables\Exact_Sum_of_Real_Numbers\Exact_Sum_of_Real_Numbers.csproj", "{2C20E1B4-450F-4C8B-960B-DE8263E1C966}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elevator", "Data Types and Variables\Elevator\Elevator.csproj", "{1338B768-453A-48FD-877A-89EFAA5EB135}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Elevator", "Data Types and Variables\Elevator\Elevator.csproj", "{1338B768-453A-48FD-877A-89EFAA5EB135}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Special_Numbers", "Data Types and Variables\Special_Numbers\Special_Numbers.csproj", "{DBA59184-D388-403B-975C-5E3C7D8E0E03}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Special_Numbers", "Data Types and Variables\Special_Numbers\Special_Numbers.csproj", "{DBA59184-D388-403B-975C-5E3C7D8E0E03}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Triples_of_Letters", "Data Types and Variables\Triples_of_Letters\Triples_of_Letters.csproj", "{4525B256-2A71-45EB-8944-5921E812C8BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Greeting", "Data Types and Variables\Greeting\Greeting.csproj", "{9EA20615-C089-41F2-A31D-90A6C3379D05}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -41,6 +45,14 @@ Global
 		{DBA59184-D388-403B-975C-5E3C7D8E0E03}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DBA59184-D388-403B-975C-5E3C7D8E0E03}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DBA59184-D388-403B-975C-5E3C7D8E0E03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4525B256-2A71-45EB-8944-5921E812C8BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4525B256-2A71-45EB-8944-5921E812C8BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4525B256-2A71-45EB-8944-5921E812C8BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4525B256-2A71-45EB-8944-5921E812C8BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EA20615-C089-41F2-A31D-90A6C3379D05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EA20615-C089-41F2-A31D-90A6C3379D05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EA20615-C089-41F2-A31D-90A6C3379D05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EA20615-C089-41F2-A31D-90A6C3379D05}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -51,6 +63,8 @@ Global
 		{2C20E1B4-450F-4C8B-960B-DE8263E1C966} = {50F638A6-6C5C-4E64-9513-C18E91AE3867}
 		{1338B768-453A-48FD-877A-89EFAA5EB135} = {50F638A6-6C5C-4E64-9513-C18E91AE3867}
 		{DBA59184-D388-403B-975C-5E3C7D8E0E03} = {50F638A6-6C5C-4E64-9513-C18E91AE3867}
+		{4525B256-2A71-45EB-8944-5921E812C8BB} = {50F638A6-6C5C-4E64-9513-C18E91AE3867}
+		{9EA20615-C089-41F2-A31D-90A6C3379D05} = {50F638A6-6C5C-4E64-9513-C18E91AE3867}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {FF909277-5573-4CDB-9E12-90025EC2D48E}

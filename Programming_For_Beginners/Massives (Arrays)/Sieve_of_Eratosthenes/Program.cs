@@ -7,7 +7,7 @@ namespace Sieve_of_Eratosthenes
         static void Main(string[] args)
         {
             int n = int.Parse(Console.ReadLine());
-            bool[] primes = new bool[n + 1];
+            var primes= new bool[n + 1];
             for (int i = 2; i <= n; i++)
             {
                 primes[i] = true;

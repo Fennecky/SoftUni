@@ -23,9 +23,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Filled_Square", "Data Types
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Massives_(Arrays)", "Massives_(Arrays)", "{F7FCB5D6-986B-4E41-9274-CBB83F65DDB8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day_Of_Week", "Massives (Arrays)\Day_Of_Week\Day_Of_Week.csproj", "{7ACEBB2E-A526-4FC4-808E-2E516F571CAE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_Of_Week", "Massives (Arrays)\Day_Of_Week\Day_Of_Week.csproj", "{7ACEBB2E-A526-4FC4-808E-2E516F571CAE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sieve_of_Eratosthenes", "Massives (Arrays)\Sieve_of_Eratosthenes\Sieve_of_Eratosthenes.csproj", "{44D0CF26-8381-4FAD-972F-3ED89EA29DC8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sieve_of_Eratosthenes", "Massives (Arrays)\Sieve_of_Eratosthenes\Sieve_of_Eratosthenes.csproj", "{44D0CF26-8381-4FAD-972F-3ED89EA29DC8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Last_K_Numbers_Sums", "Massives (Arrays)\Last_K_Numbers_Sums\Last_K_Numbers_Sums.csproj", "{A0C5CFA8-AC90-4C38-B458-46182E8516D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triple_Sum", "Massives (Arrays)\Triple_Sum\Triple_Sum.csproj", "{30D4102E-DD32-4C32-A8F7-83C405F034BD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -73,6 +77,14 @@ Global
 		{44D0CF26-8381-4FAD-972F-3ED89EA29DC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{44D0CF26-8381-4FAD-972F-3ED89EA29DC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{44D0CF26-8381-4FAD-972F-3ED89EA29DC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0C5CFA8-AC90-4C38-B458-46182E8516D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0C5CFA8-AC90-4C38-B458-46182E8516D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0C5CFA8-AC90-4C38-B458-46182E8516D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0C5CFA8-AC90-4C38-B458-46182E8516D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30D4102E-DD32-4C32-A8F7-83C405F034BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30D4102E-DD32-4C32-A8F7-83C405F034BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30D4102E-DD32-4C32-A8F7-83C405F034BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30D4102E-DD32-4C32-A8F7-83C405F034BD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -88,6 +100,8 @@ Global
 		{BE64FD85-B2CD-4500-B87E-15ED52342AA0} = {50F638A6-6C5C-4E64-9513-C18E91AE3867}
 		{7ACEBB2E-A526-4FC4-808E-2E516F571CAE} = {F7FCB5D6-986B-4E41-9274-CBB83F65DDB8}
 		{44D0CF26-8381-4FAD-972F-3ED89EA29DC8} = {F7FCB5D6-986B-4E41-9274-CBB83F65DDB8}
+		{A0C5CFA8-AC90-4C38-B458-46182E8516D0} = {F7FCB5D6-986B-4E41-9274-CBB83F65DDB8}
+		{30D4102E-DD32-4C32-A8F7-83C405F034BD} = {F7FCB5D6-986B-4E41-9274-CBB83F65DDB8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {FF909277-5573-4CDB-9E12-90025EC2D48E}

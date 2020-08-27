@@ -8,23 +8,28 @@ namespace Sieve_of_Eratosthenes
         {
             int n = int.Parse(Console.ReadLine());
             var primes= new bool[n + 1];
+            primes[0] = primes[1] = false;
+
+
             for (int i = 2; i <= n; i++)
             {
                 primes[i] = true;
             }
-            for (int p = 2; p <= n; p++)
+            for (int prime = 2; prime <= n; prime++)
             {
-                if (primes[p]) { FillPrimes(primes, p); }
-
+                if (primes[prime]) 
+                { 
+                    ChecksForPrime(primes, prime); 
+                }
             }
             
         }
 
-        static void FillPrimes(bool[] primes, int stat)
+        static void ChecksForPrime(bool[] primes, int prime)
         {
-            for (int i = 2 * stat; i <= primes.Length; i += stat)
+            for (int i = 2 * prime; i <= primes.Length; i += prime)
             {
-                primes[i] = false;
+                primes[i + 2] = false;
                 Console.WriteLine($"Not Prime {i}");
             }
 

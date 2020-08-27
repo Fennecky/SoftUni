@@ -15,15 +15,15 @@ namespace Special_Numbers
             }
         }
 
-        static int sumOfDigits(int num)
+        static int sumOfDigits(int numbers)
         {
             int digits = 0;
             while (digits > 0)
             {
-                digits += num % 10;
+                digits += numbers % 10;
                 digits /= 10;
             }
-            return num;
+            return numbers;
         }
     }
 }

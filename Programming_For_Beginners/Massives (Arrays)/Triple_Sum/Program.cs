@@ -7,13 +7,8 @@ namespace Triple_Sum
     {
         static void Main(string[] args)
         {
-            int n = int.Parse(Console.ReadLine());
-            int[] nums = new int[n];
+            var nums = Console.ReadLine().Split(' ').Select(int.Parse).ToArray();
 
-            for (int i = 0; i < n; i++)
-            {
-                nums[i] = int.Parse(Console.ReadLine());
-            }
             Console.WriteLine("Sum = {0}", nums.Sum());
             Console.WriteLine("Min = {0}", nums.Min());
             Console.WriteLine("Max = {0}", nums.Max());

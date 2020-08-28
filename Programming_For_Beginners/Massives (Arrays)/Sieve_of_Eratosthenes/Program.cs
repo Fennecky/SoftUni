@@ -7,13 +7,13 @@ namespace Sieve_of_Eratosthenes
         static void Main(string[] args)
         {
             int n = int.Parse(Console.ReadLine());
-            var primes= new bool[n + 1];
+            var primes= new bool[n - 1];
             primes[0] = primes[1] = false;
 
 
             for (int i = 2; i <= n; i++)
             {
-                primes[i] = true;
+                primes[i - 1] = true;
             }
             for (int prime = 2; prime <= n; prime++)
             {
@@ -29,7 +29,7 @@ namespace Sieve_of_Eratosthenes
         {
             for (int i = 2 * prime; i <= primes.Length; i += prime)
             {
-                primes[i + 2] = false;
+                primes[i - 1] = false;
                 Console.WriteLine($"Not Prime {i}");
             }
 

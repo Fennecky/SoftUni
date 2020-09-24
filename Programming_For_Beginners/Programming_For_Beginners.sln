@@ -51,7 +51,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Split_by_Word_Casing", "Lis
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sort_Numbers", "Lists and Matrices\Sort_Numbers\Sort_Numbers.csproj", "{AF09C1BC-3EA5-419A-8AA6-83CD753D8AE3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Count_Numbers", "Lists and Matrices\Count_Numbers\Count_Numbers.csproj", "{DB40A7A7-CC46-4BF7-A6F8-F05353662AE0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Count_Numbers", "Lists and Matrices\Count_Numbers\Count_Numbers.csproj", "{DB40A7A7-CC46-4BF7-A6F8-F05353662AE0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Build_a_Matrix_of_Letters", "Lists and Matrices\Build_a_Matrix_of_Letters\Build_a_Matrix_of_Letters.csproj", "{92D3859D-B3E8-4908-A545-9D647D2BDCE1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Max_Sequence_of_Equal_Elements", "Lists and Matrices\Max_Sequence_of_Equal_Elements\Max_Sequence_of_Equal_Elements.csproj", "{0218EC78-0C41-4235-9439-17D14657BDBC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Strings, Dictionaries, Lambda and LINQ", "Strings, Dictionaries, Lambda and LINQ", "{64F6C1AF-16E5-4415-B8F8-39B511939680}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Print_String_Letters", "Strings, Dictionaries, Lambda and LINQ\Print_String_Letters\Print_String_Letters.csproj", "{055C0E44-38FA-4B1B-9E5E-E40D2574C7E6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Count_Letters_in_String", "Strings, Dictionaries, Lambda and LINQ\Count_Letters_in_String\Count_Letters_in_String.csproj", "{45216617-DCD2-44D6-944A-C8C51C92AE53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Print_a_Receipt", "Strings, Dictionaries, Lambda and LINQ\Print_a_Receipt\Print_a_Receipt.csproj", "{FE19943A-29BD-40D4-9988-7B4E6CC45147}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Count_Occurrences_in_String", "Strings, Dictionaries, Lambda and LINQ\Count_Occurrences_in_String\Count_Occurrences_in_String.csproj", "{8347D370-EC7F-4F69-A38E-E2699A08C802}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -147,6 +161,30 @@ Global
 		{DB40A7A7-CC46-4BF7-A6F8-F05353662AE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB40A7A7-CC46-4BF7-A6F8-F05353662AE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB40A7A7-CC46-4BF7-A6F8-F05353662AE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92D3859D-B3E8-4908-A545-9D647D2BDCE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92D3859D-B3E8-4908-A545-9D647D2BDCE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92D3859D-B3E8-4908-A545-9D647D2BDCE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92D3859D-B3E8-4908-A545-9D647D2BDCE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0218EC78-0C41-4235-9439-17D14657BDBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0218EC78-0C41-4235-9439-17D14657BDBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0218EC78-0C41-4235-9439-17D14657BDBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0218EC78-0C41-4235-9439-17D14657BDBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{055C0E44-38FA-4B1B-9E5E-E40D2574C7E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{055C0E44-38FA-4B1B-9E5E-E40D2574C7E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{055C0E44-38FA-4B1B-9E5E-E40D2574C7E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{055C0E44-38FA-4B1B-9E5E-E40D2574C7E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45216617-DCD2-44D6-944A-C8C51C92AE53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45216617-DCD2-44D6-944A-C8C51C92AE53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45216617-DCD2-44D6-944A-C8C51C92AE53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45216617-DCD2-44D6-944A-C8C51C92AE53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE19943A-29BD-40D4-9988-7B4E6CC45147}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE19943A-29BD-40D4-9988-7B4E6CC45147}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE19943A-29BD-40D4-9988-7B4E6CC45147}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE19943A-29BD-40D4-9988-7B4E6CC45147}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8347D370-EC7F-4F69-A38E-E2699A08C802}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8347D370-EC7F-4F69-A38E-E2699A08C802}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8347D370-EC7F-4F69-A38E-E2699A08C802}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8347D370-EC7F-4F69-A38E-E2699A08C802}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -174,6 +212,12 @@ Global
 		{188D4D73-4842-4237-9F19-009529E29208} = {091B9111-0C51-4166-A253-FCA65C859ED4}
 		{AF09C1BC-3EA5-419A-8AA6-83CD753D8AE3} = {091B9111-0C51-4166-A253-FCA65C859ED4}
 		{DB40A7A7-CC46-4BF7-A6F8-F05353662AE0} = {091B9111-0C51-4166-A253-FCA65C859ED4}
+		{92D3859D-B3E8-4908-A545-9D647D2BDCE1} = {091B9111-0C51-4166-A253-FCA65C859ED4}
+		{0218EC78-0C41-4235-9439-17D14657BDBC} = {091B9111-0C51-4166-A253-FCA65C859ED4}
+		{055C0E44-38FA-4B1B-9E5E-E40D2574C7E6} = {64F6C1AF-16E5-4415-B8F8-39B511939680}
+		{45216617-DCD2-44D6-944A-C8C51C92AE53} = {64F6C1AF-16E5-4415-B8F8-39B511939680}
+		{FE19943A-29BD-40D4-9988-7B4E6CC45147} = {64F6C1AF-16E5-4415-B8F8-39B511939680}
+		{8347D370-EC7F-4F69-A38E-E2699A08C802} = {64F6C1AF-16E5-4415-B8F8-39B511939680}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {FF909277-5573-4CDB-9E12-90025EC2D48E}
